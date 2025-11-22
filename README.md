@@ -1,3 +1,24 @@
+# PDF Checker App
+
+## Description
+This is a simple web app to check PDFs using LLM logic. Users can upload a PDF and set 3 rules. The app returns PASS/FAIL with evidence, reasoning, and confidence score.
+
+## Features
+- Upload PDF (2–10 pages)
+- Enter 3 custom rules
+- Check document using an LLM
+- View results in a table
+
+## Tech Stack
+- Frontend: React / Next.js / HTML-CSS-JS
+- Backend: Node.js / Express (or your choice)
+- PDF Parsing: pdf-parse / pdf.js
+- LLM: OpenAI API / Hugging Face API (any)
+
+## How to Run
+1. Clone repo:
+```bash
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
