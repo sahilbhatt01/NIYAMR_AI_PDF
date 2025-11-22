@@ -18,7 +18,7 @@ This is a simple web app to check PDFs using LLM logic. Users can upload a PDF a
 ## How to Run
 1. Clone repo:
 ```bash
-
+git clone https://github.com/sahilbhatt01/NIYAMR_AI_PDF.git
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
